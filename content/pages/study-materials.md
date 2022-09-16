@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains a collection of introductory notes on modeling, provided
+  as background material for the lectures, plus an old quiz and solution.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

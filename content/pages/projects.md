@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains some suggested topics for student term projects,
+  and presents a few representative samples of student work in the Fall 2006 class.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
